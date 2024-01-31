@@ -6,9 +6,9 @@ run the following commands to get Started
 - npm run dev
 
 
-  #ShowList Page
+  # ShowList Page
 ![ShowListPage](test1.png)
 
-#ShowDetail Page
+# ShowDetail Page
 ![ShowDetailPage](test2.png)
   
