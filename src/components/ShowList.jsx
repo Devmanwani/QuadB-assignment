@@ -1,7 +1,7 @@
 // ShowList.js
 import React from 'react';
 import { Link } from 'react-router-dom';
-import '../styles/ShowList.css'; // Import your CSS file for ShowList styling
+import '../styles/ShowList.css'; 
 
 const ShowList = ({ shows }) => {
   return (
