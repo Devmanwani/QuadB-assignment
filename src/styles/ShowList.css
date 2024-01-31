@@ -1,0 +1,39 @@
+/* ShowList.css */
+.show-list-container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  .show-card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .show-image {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .show-name {
+    margin-top: 10px;
+  }
+  
+  .view-details-button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
+  .view-details-button:hover {
+    background-color: #0056b3;
+  }
+  
